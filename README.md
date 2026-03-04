@@ -114,4 +114,4 @@ All models were tuned using `GridSearchCV` with 5-fold cross-validation, optimiz
 
 ## Authors
 
-Amber Ramirez, Annika, Candy — MISM3515 Data Mining, Northeastern University
+Amber Ramirez, Team Member 2, Team Member 3 — MISM3515 Data Mining, Northeastern University
