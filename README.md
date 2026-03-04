@@ -20,7 +20,7 @@ Using three real-world datasets and four machine learning models, we built and e
 | Mendeley E-Paylater Survey | Mendeley | Predict psychological impulsivity from Likert-scale survey data | 306 respondents |
 | Vietnamese TikTok Shopping | Kaggle | Predict platform-driven impulsivity from social commerce behavior | ~350 respondents |
 
-> **Note:** Datasets can additionally be found in the download links below.
+> **Note:** Datasets can additionally be found by searching in the links below.
 > - [Consumer Shopping Behavior — Kaggle](https://www.kaggle.com/)
 > - [Mendeley Dataset](https://data.mendeley.com/)
 > - [TikTok Impulse Buying Dataset — Kaggle](https://www.kaggle.com/)
