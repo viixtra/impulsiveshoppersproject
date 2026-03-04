@@ -20,7 +20,7 @@ Using three real-world datasets and four machine learning models, we built and e
 | Mendeley E-Paylater Survey | Mendeley | Predict psychological impulsivity from Likert-scale survey data | 306 respondents |
 | Vietnamese TikTok Shopping | Kaggle | Predict platform-driven impulsivity from social commerce behavior | ~350 respondents |
 
-> **Note:** Datasets are not included in this repo due to file size. Download links below.
+> **Note:** Datasets can additionally be found in the download links below.
 > - [Consumer Shopping Behavior — Kaggle](https://www.kaggle.com/)
 > - [Mendeley Dataset](https://data.mendeley.com/)
 > - [TikTok Impulse Buying Dataset — Kaggle](https://www.kaggle.com/)
@@ -30,7 +30,7 @@ Using three real-world datasets and four machine learning models, we built and e
 ## Methodology
 
 ### Target Variable Engineering
-Since no dataset included an explicit "impulsive buyer" flag, we engineered custom target variables for each:
+Since no dataset included an explicit "impulsive buyer" flag, I engineered custom target variables for each:
 
 - **Behavioral dataset:** A shopper was labeled impulsive if they shopped monthly or more (or had above-average prior purchases) AND used a discount or promo code — capturing frequency + incentive-triggered buying
 - **Mendeley dataset:** Impulsive Buying Behavior score computed as the mean of IBB1–IBB4 (Likert items); threshold set at ≥ 3.5
